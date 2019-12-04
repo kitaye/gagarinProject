@@ -7,7 +7,7 @@
     "dev": "webpack-dev-server --mode=development --hot",
     "build": "webpack --mode=production --progress",
     "reg": "node reg-util.js",
-    "stylelint": "stylelint ./src/styles/main.pcss ./src/styles/blocks/*.pcss ./src/styles/layout/*.pcss"
+    "stylelint": "stylelint ./styles/main.pcss ./styles/blocks/*.pcss ./styles/layout/*.pcss"
   },
   "keywords": [],
   "author": "",
