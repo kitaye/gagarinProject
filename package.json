@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "gagarinProject",
+=======
+  "name": "ls-advanced-boilerplate",
+>>>>>>> 02865f46a38fe563079a4611adcab14e75e317ee
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
