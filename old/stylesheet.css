@@ -1,0 +1,15 @@
+.title {
+    margin: 0 auto;
+    display: block;
+    width: max-content;
+}
+
+.nav {
+    display: flex;
+    justify-content: center;
+}
+
+.nav li {
+    display: inline-block;
+    margin: 20px;
+}
